@@ -1,10 +1,10 @@
 body{
 	background-color:gray;
 	width:1600px;
+	height: 500px;
 }
 
-a:link{
-  text-decoration: none;}
+
 
 #nav{
 	height: 75px;
@@ -15,6 +15,7 @@ a:link{
 	padding: 0px;
 	margin:auto;
 	font-family: "Georgia";
+	text-decoration: none
 
 
 	
