@@ -1,0 +1,94 @@
+body{
+	background-color:gray;
+	width:1600px;
+}
+
+a:link{
+  text-decoration: none;}
+
+#nav{
+	height: 75px;
+	width:960px;
+	border:1px solid black;
+	background-color: white;
+	text-align: right;
+	padding: 0px;
+	margin:auto;
+	font-family: "Georgia";
+
+
+	
+}
+
+
+.name{
+	width:214px
+	height:61px;
+	float: left;
+	margin:auto;
+	border: 1px #4aaaa5;
+	background-color: #4aaaa5;
+	font-family:"Georgia"; 
+	font-size:35px;
+	color:white;
+    display:inline-box;
+    border:20px solid #4aaaa5;
+    
+}
+
+
+#main-section {
+	margin-left: 319px;
+	margin-top:206px;
+	margin-right:1280px;
+	margin-bottom:652px;
+	width:960px;
+	height:447px; 
+	border:1px solid black;
+	background-color: white;
+}
+
+#aboutme{
+	color:#4aaaa5;
+	font-family:"Georgia";
+	font-size:25px; 
+	width:205px;
+	height:43px;
+	padding: 20px;
+
+}
+
+#line-break{
+	border:1px solid gray;
+}
+.para{
+	width:960px;
+	padding:25px;
+	margin:auto;
+
+}
+
+
+
+#photo{width:100px;
+	float:left;
+	padding:25px;
+
+
+}
+
+.bottomborder{
+	border:1px solid #4aaaa5;
+	background-color: #4aaaa5;
+	padding:5px;
+	
+}
+
+.footer{
+	border:1px #666666;
+	background-color: #666666;
+	padding:30px;
+	text-align: center;
+	
+
+}
