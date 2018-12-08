@@ -150,9 +150,9 @@ a {
 
 }
 
-.border{height:20px;
-	background-color: #4aaaa5;
-	padding:30px;
+element.style {
+    border: 1px solid #4aaaa5;
+
 }
 
 .footer{
