@@ -92,10 +92,30 @@ a {
 }
 
 .placeholders{
-	width:25px;
+	width:300px;
 	padding:20px;
 	display:inline-block;
-	padding:75px;
+	/*padding:75px;*/
+	position: relative;
+
+
+}
+
+.placeholders img {
+	width: 100%
+}
+
+.placeholders p {
+	position: absolute;
+	bottom: 30px;
+	left:20px;
+	text-align: center;
+	background-color: #4aaaa5;
+	font-family: "arial";
+	font-size:35px;
+	width:300px;
+	color:#ffffff;
+	clear:left;
 
 
 }
