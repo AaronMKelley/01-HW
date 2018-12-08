@@ -93,21 +93,13 @@ a {
 
 .placeholders{
 	width:25px;
-	margin:auto;
-	float:left;
 	padding:20px;
+	display:inline-block;
+	padding:75px;
 
 
 }
 
-
-.bottomleft{
-  position: absolute;
-  border:1px solid #4aaaa5;
-  background-color: #4aaaa5;
-  float:left;
-	
-}
 
 .para{
 	width:960px;
